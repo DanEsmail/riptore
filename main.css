@@ -2,3 +2,12 @@ h1 {
 	color: red;
 	
 }
+
+img{
+	height: 300px;
+	width: 300px;
+}
+
+#enemybox{
+	float: right;
+}
